@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Great+Vibes&family=DM+Sans:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Margarine&display=swap");
+@import "tailwindcss";
+.gold {
+  color: #c8a96a;
+}
+
+.script {
+  font-family: "Great Vibes", cursive;
+}
+.margarin {
+  font-family: "Margarine", sans-serif;
+}
+.serif {
+  font-family: "Cormorant Garamond", serif;
+}
