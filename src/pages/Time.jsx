@@ -42,7 +42,7 @@ const Time = () => {
           className="w-[70px] h-[70px] absolute bottom-4 sm:bottom-14 right-5 rotate-180 z-20"
         />
 
-        <h1 className=" text-center mb-4 sm:mb-10 script sm:text-5xl text-orange-300">
+        <h1 className=" text-center mb-4 sm:mb-10 script text-3xl sm:text-5xl text-orange-300">
           Baxtli onlargacha...
         </h1>
         <Countdown />
