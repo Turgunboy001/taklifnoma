@@ -40,7 +40,7 @@ const Hero = () => {
           Assalomu alaykum
         </h1>
         <img src={line} className="w-40 h-1" alt="" />
-        <p className=" font-serif italic text-orange-300 text-7xl">
+        <p className=" font-serif italic text-orange-300 text-4xl sm:text-7xl">
           Taklifnoma
         </p>
       </div>

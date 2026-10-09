@@ -35,9 +35,9 @@ const About = () => {
           style={{ backgroundImage: `url(${bg})` }}
         >
           <p className="script gold text-xl">Kelin & Kuyov</p>
-          <h1 className="margarin text-7xl text-orange-300">Asadbek</h1>
+          <h1 className="margarin  text-4xl sm:text-7xl text-orange-300">Asadbek</h1>
           <h1 className="margarin text-7xl text-orange-300">&</h1>
-          <h1 className="margarin text-7xl text-orange-300">Asadbek</h1>
+          <h1 className="margarin text-4xl sm:text-7xl text-orange-300">Asadbek</h1>
         </div>
 
         {/* line image  */}

@@ -7,7 +7,7 @@ export const WeddingCalendar = () => {
   return (
     <div className="mx-auto max-w-sm border border-[#bba36a55] p-5 sm:p-7">
       <div className="mb-5 flex justify-between border-b border-[#bba36a55] pb-4 text-sm tracking-widest">
-        <span>Noyabr</span>
+        <span className="text-white">Noyabr</span>
         <span className="gold">2026</span>
       </div>
 
@@ -39,7 +39,7 @@ export const WeddingCalendar = () => {
       <div className="mt-5 flex items-center justify-center gap-3 border-t border-[#bba36a55] pt-5">
         <Clock size={18} className="gold" />
         <div>
-          <p className="serif text-2xl">18:00</p>
+          <p className="serif text-2xl text-white">18:00</p>
           <p className="text-xs text-[#c3bdad]">Boshlanish vaqti</p>
         </div>
       </div>
